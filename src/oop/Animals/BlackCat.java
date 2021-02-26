@@ -1,4 +1,4 @@
-package oop;
+package oop.Animals;
 
 public final class BlackCat extends Cat {
     private static final String COLOR = "black";

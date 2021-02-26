@@ -1,4 +1,4 @@
-package oop;
+package oop.Animals;
 
 public class Cat extends Animal implements Petable{
     public Cat(){

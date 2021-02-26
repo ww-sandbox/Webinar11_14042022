@@ -1,4 +1,4 @@
-package oop;
+package oop.Animals;
 
 public class Dog extends Animal implements Petable{
 
